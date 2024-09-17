@@ -1,6 +1,6 @@
 # R Practice 🧮
 
-![R Practice](R.jpeg)
+![R Practice](R.png)
 
 ## Overview 📚
 
